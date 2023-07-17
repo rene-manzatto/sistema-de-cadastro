@@ -7,6 +7,8 @@ const segundoNumero = 5
 
 // console.log(primeiroNumero === segundoNumero)
 
+// boolean string
+
 const texto1 = "Alura";
 const texto2 = "alura";
 
